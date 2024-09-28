@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ugelderpo.github.io/sitemap.ugelderpo.gz
+Sitemap: https://ugelderpo.github.io/app/sitemap.ugelderpo.gz
+Sitemap: https://ugelderpo.github.io/assets/sitemap.ugelderpo.gz
+Sitemap: https://ugelderpo.github.io/css/sitemap.ugelderpo.gz
+Sitemap: https://ugelderpo.github.io/data/sitemap.ugelderpo.gz
+Sitemap: https://ugelderpo.github.io/includes/sitemap.ugelderpo.gz
+Sitemap: https://ugelderpo.github.io/item/sitemap.ugelderpo.gz
+Sitemap: https://ugelderpo.github.io/src/sitemap.ugelderpo.gz
